@@ -1,0 +1,14 @@
+name = "Enhanced Searchability"
+filename = "enhanced-searchability-mc1.19-3.0.1+build.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Scg0CNUt/versions/3.0.1/enhanced-searchability-mc1.19-3.0.1%2Bbuild.9.jar"
+hash-format = "sha512"
+hash = "60fb05af645c68a95d6dd95c567285436c5870f978fd3b976eac761c8babc561ef9abe3550d25b92df587cdf9b2ca5033855705f060d8e30d18e35ba1185d9cf"
+
+[update]
+[update.modrinth]
+mod-id = "Scg0CNUt"
+version = "wJuDKYok"

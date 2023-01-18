@@ -1,0 +1,14 @@
+name = "SomeOrdinaryTweaks"
+filename = "some-ordinary-tweaks-1.6.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/DdIyvPXF/some-ordinary-tweaks-1.6.0.jar"
+hash-format = "sha512"
+hash = "bd08cb35a7e485deb66392ce461f2cc28e09a8f053c50198a09a04fef349eb2e87f11f3410060618c5efb7a2acf53abbe507acd7978df9320c72f57e0d542dae"
+
+[update]
+[update.modrinth]
+mod-id = "LNeXYJOg"
+version = "DdIyvPXF"

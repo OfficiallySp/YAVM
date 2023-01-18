@@ -1,0 +1,14 @@
+name = "ReplayMod"
+filename = "replaymod-1.19.2-2.6.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/YtwBv8Wx/replaymod-1.19.2-2.6.9.jar"
+hash-format = "sha512"
+hash = "04eb092bb700c798b6046468f8eb0a09c82a031362de877a37544e717e2faa3cf68e3945fc758a8f6c116515486295420aca98e4c1fd1e921ca93cdf9d10847b"
+
+[update]
+[update.modrinth]
+mod-id = "Nv2fQJo5"
+version = "YtwBv8Wx"
