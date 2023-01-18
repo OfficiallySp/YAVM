@@ -1,0 +1,13 @@
+name = "YAVM"
+author = "OfficiallySp"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d0840931eae4a5f1d783969cf4db0970e2afb0df6e427c93ccdc99c132aebb1"
+
+[versions]
+fabric = "0.14.13"
+minecraft = "1.19.2"
