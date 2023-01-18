@@ -5,7 +5,7 @@
 	#Modpack Title | Syntax: ${version}, ${mcversion}, ${gamestate}
 	title = "Minecraft: (YAVM) ${version} for MC ${mcversion} - ${gamestate}"
 	#Modpack Version
-	version = "v1.0.2"
+	version = "v1.0.1"
 	#Modpack Identifier
 	identifier = "YAVM"
 	project_id_or_url = "https://raw.githubusercontent.com/OfficiallySp/YAVM/main/manifest.json"

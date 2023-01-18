@@ -1,16 +1,16 @@
 {
   "main_menu": {
     "top_left": [],
-    "top_right": [],
+    "top_right": ["Panorama Seed: 4325227337"],
     "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": [],
-    "top_right": [],
-    "bottom_left": [],
-    "bottom_right": [],
+    "top_left": ["PAUSED"],
+    "top_right": ["PAUSED"],
+    "bottom_left": ["PAUSED"],
+    "bottom_right": ["PAUSED"],
     "mod_blacklist": []
   }
 }

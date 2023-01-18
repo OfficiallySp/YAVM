@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/EmiLootConfig_v1.json"
-hash = "0f54832d9390f3b29756365723e9d208325e91de8c4626e9d8fc93c380002108"
+file = ".vs/VSWorkspaceState.json"
+hash = "f8315c8ace58425aeca40c1c17b3be8d50894c55f561cd7e36266da5d5ea3d72"
+
+[[files]]
+file = ".vs/YAVM/v17/.wsuo"
+hash = "51bb7bae7e89a08eb6115eb4367bb3db76a21e6a1740cbfd3251324c7f2909fd"
+
+[[files]]
+file = "Screenshot 2023-01-12 223750.png"
+hash = "a2618c135b7e0200d3961ebf2613532870348df6c3dc8344124ee18f82a4d8c8"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -54,11 +62,7 @@ hash = "1807fa718a651871842ebe59cb836c0f10b7fa8cfbed1e7ac169283d6f614859"
 
 [[files]]
 file = "config/camerautils/camerautils.properties"
-hash = "6e231f1e4730dc0da1fbea1d95d3e307f0ba1fa7964ce2ea8fa03ca6c56e2df6"
-
-[[files]]
-file = "config/cardinal-components-api.properties"
-hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+hash = "13ac0eb14f97b40b4a9c0cee2355942d7793e4400714ab738a4a82c751b01042"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -101,406 +105,6 @@ file = "config/debugify.json"
 hash = "c3b0a39030d7d2f63059b8b9c1aa70b101874830099e9b1244e8f03eb67c531d"
 
 [[files]]
-file = "config/defaultoptions.toml"
-hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
-
-[[files]]
-file = "config/defaultoptions/extra/EmiLootConfig_v1.json"
-hash = "0f54832d9390f3b29756365723e9d208325e91de8c4626e9d8fc93c380002108"
-
-[[files]]
-file = "config/defaultoptions/extra/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/defaultoptions/extra/NBTtooltips_config.properties"
-hash = "7dc55b6b5357baacbd630402e79826637db8e243fb46f35c1579112f58f226dc"
-
-[[files]]
-file = "config/defaultoptions/extra/adaptive-tooltips.json"
-hash = "c7201bc48409d611ff9608a4932f46ceef3ec1f2cf1c2437d76520ece00f16df"
-
-[[files]]
-file = "config/defaultoptions/extra/advancementinfo.json5"
-hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
-
-[[files]]
-file = "config/defaultoptions/extra/advancementplaques-common.toml"
-hash = "52c1698235af1dc8195ff018470b35e2cc5ff8e1660e22d1df3aaf49617e1569"
-
-[[files]]
-file = "config/defaultoptions/extra/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
-file = "config/defaultoptions/extra/autohud.json5"
-hash = "4d81fcf29e7977780ad7150796523df865e5ec34d8853a165577e5d3f433e3b5"
-
-[[files]]
-file = "config/defaultoptions/extra/bedrockify/bedrockify-ExternalLoadingTips.json"
-hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
-
-[[files]]
-file = "config/defaultoptions/extra/bedrockify/bedrockifyClient.json"
-hash = "fbb530dbb74af4e224e7bdfc1425da00b07102ef3aeeb362235fa243dc75b28a"
-
-[[files]]
-file = "config/defaultoptions/extra/bedrockify/bedrockifyCommon.json"
-hash = "7473c3be1c49710fbd183ee39e3450d4566008412ca85938610515b44098e3cb"
-
-[[files]]
-file = "config/defaultoptions/extra/bedrockify/bedrockifyMixins.json"
-hash = "3fa0b677ed4775d8fb76cb56a211879cca8d4b8712274e3de10c6dde7817c22f"
-
-[[files]]
-file = "config/defaultoptions/extra/cameraoverhaul.json"
-hash = "1807fa718a651871842ebe59cb836c0f10b7fa8cfbed1e7ac169283d6f614859"
-
-[[files]]
-file = "config/defaultoptions/extra/camerautils/camerautils.properties"
-hash = "6e231f1e4730dc0da1fbea1d95d3e307f0ba1fa7964ce2ea8fa03ca6c56e2df6"
-
-[[files]]
-file = "config/defaultoptions/extra/cardinal-components-api.properties"
-hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
-
-[[files]]
-file = "config/defaultoptions/extra/craftpresence.json"
-hash = "4f8fefa2b6f55e33c4ef31b623f61bbd246d5a777126f41d8397d0d8bbc3f9b2"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen.json5"
-hash = "9746441cec483eee37849fb686d6507c1b64d44d535fac0af09bdf43bb51cc13"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen/background.png"
-hash = "67d20ac3afe9538286de7c2a44f6bea546bdccf116b5246d0f5d6ce2d9a8b0a0"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen/mojangstudios.png"
-hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen/mojank.png"
-hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen/progressbar.png"
-hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
-
-[[files]]
-file = "config/defaultoptions/extra/customsplashscreen/progressbar_background.png"
-hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
-
-[[files]]
-file = "config/defaultoptions/extra/dashloader.json"
-hash = "dc7a02b8b863a4dec5ca78b611c829a20a5b742e32b66ca62fbe9cccdbadac9d"
-
-[[files]]
-file = "config/defaultoptions/extra/debugify-descriptions.json"
-hash = "b09f0237bd0131c13037c8fec0ccd4ac2662eb6c5979735da5093cee53883bcb"
-
-[[files]]
-file = "config/defaultoptions/extra/debugify.json"
-hash = "c3b0a39030d7d2f63059b8b9c1aa70b101874830099e9b1244e8f03eb67c531d"
-
-[[files]]
-file = "config/defaultoptions/extra/defaultoptions.toml"
-hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
-
-[[files]]
-file = "config/defaultoptions/extra/defaultoptions/keybindings.txt"
-hash = "f2dab81edfce7ffbc8e3505b4763172ec38f9f5b4fc4413deeb612edc4cf5999"
-
-[[files]]
-file = "config/defaultoptions/extra/defaultoptions/options.txt"
-hash = "cee64b61b267fb40534d37dad6adee783411c6c7d09b4787d2d1ce73ebf9137e"
-
-[[files]]
-file = "config/defaultoptions/extra/defaultoptions/servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
-
-[[files]]
-file = "config/defaultoptions/extra/detailarmorbar.json"
-hash = "c22ae8d5516fb8d2e7a89f13083cb41ba3cda25a280ca6b04775ba83e96a2659"
-
-[[files]]
-file = "config/defaultoptions/extra/draggable-resource-packs.json5"
-hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
-
-[[files]]
-file = "config/defaultoptions/extra/dynamicfps.toml"
-hash = "d5f4905dbdad28bf4291c35d2132bec8ed5db70ce8c1d915b1e43882a357fae6"
-
-[[files]]
-file = "config/defaultoptions/extra/emi.css"
-hash = "d63b51c781abbe6e59da8acfaf6a78711693d1fb0f1365ec5abad61b95a73e8e"
-
-[[files]]
-file = "config/defaultoptions/extra/emitrades.toml"
-hash = "bcccf999e46e09321c9d7a2b0e783b8278a33e6cc8e90332108a67733d971e30"
-
-[[files]]
-file = "config/defaultoptions/extra/enhanced-searchability.json5"
-hash = "2fa50b372e328814b8f9b0e363ab81f28668277e75688a856855229ea5cd51cc"
-
-[[files]]
-file = "config/defaultoptions/extra/enhanced_bes.properties"
-hash = "b2c7897dc7a6b12c1d207fb8f415d7f87deb3d02b91476b015a81bc1321cfa41"
-
-[[files]]
-file = "config/defaultoptions/extra/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
-file = "config/defaultoptions/extra/exordium.json"
-hash = "102e251fdd7d970ce774d75e901d55d2dce4fe302375ddd9fd23f2960409caf9"
-
-[[files]]
-file = "config/defaultoptions/extra/extrasounds.cache"
-hash = "e4dc8a89e6da0abe22a3181b2bf51138dbe8fe6415be17181a618f22f86d6063"
-
-[[files]]
-file = "config/defaultoptions/extra/fabric/indigo-renderer.properties"
-hash = "d2a236e5179257bfcdb75db2f8c0addba71054357378d80b2b4527c9f6cf1c1b"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/block_logo.ini"
-hash = "d0330862f3185a4205a4b2e2d773c7940fc3f2ceb3455b03a7ef9ad097126b64"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/block_logo.png"
-hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/classic_block_drops.ini"
-hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/dimensional_tools.ini"
-hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/features.ini"
-hash = "e2cc8d97cb3e54dfc270285601c76675bd2d8204dbf7425f72ed68ee2e42268d"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/fscript.ini"
-hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/gear_components.ini"
-hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/item_despawn.ini"
-hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/taggable_players.ini"
-hash = "371aca54f93431eec6bdd55bea00b9d6c5263475e39c00f052658ce31afc254c"
-
-[[files]]
-file = "config/defaultoptions/extra/fabrication/yeet_recipes.ini"
-hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/config.txt"
-hash = "43286c3b881f8fcfe5f4688cc32b687156bed38117a758c39cc3d10bc4009d08"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/locals/en_us.local"
-hash = "6e5f6a7fce57921106335d54801ca78557bfb7db45bb10122240ec9fb6503b34"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "config/defaultoptions/extra/fancymenu/user_variables.db"
-hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
-file = "config/defaultoptions/extra/fastquit-config.txt"
-hash = "d36c00d18f20cd387898fdb163bc65baafcd0376dd0341d796e7bf07bac1a829"
-
-[[files]]
-file = "config/defaultoptions/extra/ferritecore.mixin.properties"
-hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
-
-[[files]]
-file = "config/defaultoptions/extra/gamecontrollerdatabase.txt"
-hash = "290533656dad4fcfe10bc987522813cd7db43794cf8158a57bef627c477bda9b"
-
-[[files]]
-file = "config/defaultoptions/extra/healthindicator.toml"
-hash = "e04d2042595f365d77f7c731bffa7d9d0d9f26ded93a3b89f690897ef24ad50b"
-
-[[files]]
-file = "config/defaultoptions/extra/ias.json"
-hash = "e7a0219ee2505ffec6ce23634974a444205d0300b00cf929e2986891a86bd09d"
-
-[[files]]
-file = "config/defaultoptions/extra/indium-renderer.properties"
-hash = "5a7176d5d4de526ecc6f6bc45d99b11d8994cb95eb789caf4f2333b677239d45"
-
-[[files]]
-file = "config/defaultoptions/extra/inventory_tabs.json"
-hash = "f94ea5ac329bd3257c58dcd5dd06add6c216eb1cbc68ddaa60c8c5870dc8f6ff"
-
-[[files]]
-file = "config/defaultoptions/extra/iris.properties"
-hash = "1ef64397f4c6e5cebe08cd248d590a6241ba62210093f6cdffdd1859cbece9c0"
-
-[[files]]
-file = "config/defaultoptions/extra/isxander-main-menu-credits.json"
-hash = "de0a1779ef6a1deda082c46d29580187e57cc97db72dd4a66d052d05b9eb5bee"
-
-[[files]]
-file = "config/defaultoptions/extra/jade/hide-entities.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/defaultoptions/extra/jade/jade.json"
-hash = "e4516eab6ecefe49393ca67c63bf6d387161d6a232f284b5981631e71f2187ff"
-
-[[files]]
-file = "config/defaultoptions/extra/jade/plugins.json"
-hash = "7eef24997add5105062646663ec6b797d943a1551f485303f4962842a7303a56"
-
-[[files]]
-file = "config/defaultoptions/extra/jade/sort-order.json"
-hash = "d80bea49a7fb723c097e515158b7b2a25ff91e007282b5ef87195ec5c8ca5289"
-
-[[files]]
-file = "config/defaultoptions/extra/jade/usernamecache.json"
-hash = "aa2171a5841e75eaf2dac6501fa71ead99d1be2e5311714fd769f1aaef8959ed"
-
-[[files]]
-file = "config/defaultoptions/extra/lambdynlights.toml"
-hash = "f75ff5c00cca97085a366cf0d87eaea8779badccc23d9ecfcdcaf0ddbca16ecb"
-
-[[files]]
-file = "config/defaultoptions/extra/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
-file = "config/defaultoptions/extra/mainmenuchanger.json5"
-hash = "b3aef8303d00c27f91e0c81b8511718f529db9e05576c668dbf140cfa4d92f94"
-
-[[files]]
-file = "config/defaultoptions/extra/memoryusagescreen.toml"
-hash = "4fad41ea0f6ae761dac30511eca7157cbed297bc6603122eec273cec3c9c912b"
-
-[[files]]
-file = "config/defaultoptions/extra/midnightcontrols.json"
-hash = "e59a365ec609c913e30cde31597e070b555c0374114d9a6482f8ab3d119bd93b"
-
-[[files]]
-file = "config/defaultoptions/extra/midnightlib.json"
-hash = "b38d5209ee96802fe6a3f9a329411715c65a6026eb6bd7374a28fc324cef6724"
-
-[[files]]
-file = "config/defaultoptions/extra/modmenu.json"
-hash = "7eb6a1fed02b10f335f8e6203a2060c6597d0ea2b2685e7b9b350f5c6fc276a0"
-
-[[files]]
-file = "config/defaultoptions/extra/ordinarytweaks.json"
-hash = "baa8e1c0a365e0c94bfb3dd2b671406865f131ebf7475f9337a1fccc7b1ad74f"
-
-[[files]]
-file = "config/defaultoptions/extra/packmger/client-config.toml"
-hash = "43e1acd5cc2348640fbe67856d966f2ba342bc5ec26301303a2515a1160e9021"
-
-[[files]]
-file = "config/defaultoptions/extra/packmger/item_blacklist.json"
-hash = "3a42d346c00ddcf61ff8b82dfe2cd58419f7fdddc203eaec775dd5582468d937"
-
-[[files]]
-file = "config/defaultoptions/extra/pickupnotifier-client.toml"
-hash = "f5d1ec16935c99761878a260025193b5a77c9d5ff79b22739bae15b03a4bc674"
-
-[[files]]
-file = "config/defaultoptions/extra/replaymod.json"
-hash = "1390352a131e0fbfc6d247d88a7f02b009057eb1a847df8068e77cf3604ee5f2"
-
-[[files]]
-file = "config/defaultoptions/extra/rrp.properties"
-hash = "8e87f3529780bece05476a626cd3a56367aff492d5fa98f8bdcab50b8304807c"
-
-[[files]]
-file = "config/defaultoptions/extra/simple-rpc/server-entries.toml"
-hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
-
-[[files]]
-file = "config/defaultoptions/extra/simple-rpc/simple-rpc-replaymod.toml"
-hash = "e3d65028b237987261941fc7c18772e579e44b56a4372c889f1b9c991fefbbb7"
-
-[[files]]
-file = "config/defaultoptions/extra/simple-rpc/simple-rpc.toml"
-hash = "932d03806f925632d6782d8f063cfeb2d18de3601c12d45be804c0bbede491f8"
-
-[[files]]
-file = "config/defaultoptions/extra/sodium-extra-options.json"
-hash = "71722efb1f78bbb4d48c85cddc2907ac3a341b6310e86cb0780a2e643a6667ea"
-
-[[files]]
-file = "config/defaultoptions/extra/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/defaultoptions/extra/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/defaultoptions/extra/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
-file = "config/defaultoptions/extra/status-effect-bars.json"
-hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
-
-[[files]]
-file = "config/defaultoptions/extra/tr7zwDonorSettings.json"
-hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
-
-[[files]]
-file = "config/defaultoptions/extra/travelerstitles-fabric-1_19.toml"
-hash = "c8b9980be46dbffcf6cc6401696b55c1d34b6935f8aeb8ad13827f2545486a90"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "f2dab81edfce7ffbc8e3505b4763172ec38f9f5b4fc4413deeb612edc4cf5999"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "cee64b61b267fb40534d37dad6adee783411c6c7d09b4787d2d1ce73ebf9137e"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
-
-[[files]]
 file = "config/detailarmorbar.json"
 hash = "c22ae8d5516fb8d2e7a89f13083cb41ba3cda25a280ca6b04775ba83e96a2659"
 
@@ -515,10 +119,6 @@ hash = "d5f4905dbdad28bf4291c35d2132bec8ed5db70ce8c1d915b1e43882a357fae6"
 [[files]]
 file = "config/emi.css"
 hash = "d63b51c781abbe6e59da8acfaf6a78711693d1fb0f1365ec5abad61b95a73e8e"
-
-[[files]]
-file = "config/emitrades.toml"
-hash = "bcccf999e46e09321c9d7a2b0e783b8278a33e6cc8e90332108a67733d971e30"
 
 [[files]]
 file = "config/enhanced-searchability.json5"
@@ -542,7 +142,7 @@ hash = "e4dc8a89e6da0abe22a3181b2bf51138dbe8fe6415be17181a618f22f86d6063"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d2a236e5179257bfcdb75db2f8c0addba71054357378d80b2b4527c9f6cf1c1b"
+hash = "792b3f1ce8b99803dd3cb1aac7c811f39929f26e95c7ce6f4a98067a6676a56a"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -585,42 +185,6 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "43286c3b881f8fcfe5f4688cc32b687156bed38117a758c39cc3d10bc4009d08"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "6e5f6a7fce57921106335d54801ca78557bfb7db45bb10122240ec9fb6503b34"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
 file = "config/fastquit-config.txt"
 hash = "d36c00d18f20cd387898fdb163bc65baafcd0376dd0341d796e7bf07bac1a829"
 
@@ -637,12 +201,8 @@ file = "config/healthindicator.toml"
 hash = "e04d2042595f365d77f7c731bffa7d9d0d9f26ded93a3b89f690897ef24ad50b"
 
 [[files]]
-file = "config/ias.json"
-hash = "e7a0219ee2505ffec6ce23634974a444205d0300b00cf929e2986891a86bd09d"
-
-[[files]]
 file = "config/indium-renderer.properties"
-hash = "5a7176d5d4de526ecc6f6bc45d99b11d8994cb95eb789caf4f2333b677239d45"
+hash = "e227b33f5ee58aab899a6d4c10f787c604bbb38aeca0171a5ba17ab9e7308e6e"
 
 [[files]]
 file = "config/inventory_tabs.json"
@@ -650,11 +210,11 @@ hash = "f94ea5ac329bd3257c58dcd5dd06add6c216eb1cbc68ddaa60c8c5870dc8f6ff"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1ef64397f4c6e5cebe08cd248d590a6241ba62210093f6cdffdd1859cbece9c0"
+hash = "b1121debb5c741038dcd003a10d18d00bfdc141ac094130e595dd2049b46b3f9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "de0a1779ef6a1deda082c46d29580187e57cc97db72dd4a66d052d05b9eb5bee"
+hash = "a6e9dc77f1c5bb9075abe9f55046f6c6f2813225f8ddcfd1a66ec098df28e3ea"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -705,12 +265,8 @@ file = "config/modmenu.json"
 hash = "7eb6a1fed02b10f335f8e6203a2060c6597d0ea2b2685e7b9b350f5c6fc276a0"
 
 [[files]]
-file = "config/ordinarytweaks.json"
-hash = "baa8e1c0a365e0c94bfb3dd2b671406865f131ebf7475f9337a1fccc7b1ad74f"
-
-[[files]]
 file = "config/packmger/client-config.toml"
-hash = "ade89fb36ea373fb536677c41453ae60004e8d44b25a930c88914565ddfbaaf4"
+hash = "43e1acd5cc2348640fbe67856d966f2ba342bc5ec26301303a2515a1160e9021"
 
 [[files]]
 file = "config/packmger/item_blacklist.json"
@@ -723,10 +279,6 @@ hash = "f5d1ec16935c99761878a260025193b5a77c9d5ff79b22739bae15b03a4bc674"
 [[files]]
 file = "config/replaymod.json"
 hash = "1390352a131e0fbfc6d247d88a7f02b009057eb1a847df8068e77cf3604ee5f2"
-
-[[files]]
-file = "config/rrp.properties"
-hash = "8e87f3529780bece05476a626cd3a56367aff492d5fa98f8bdcab50b8304807c"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -767,6 +319,10 @@ hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 [[files]]
 file = "config/travelerstitles-fabric-1_19.toml"
 hash = "c8b9980be46dbffcf6cc6401696b55c1d34b6935f8aeb8ad13827f2545486a90"
+
+[[files]]
+file = "manifest.json"
+hash = "58765e4da5aec28935257cff3f5f0de0c903c71d899ea1cfbdf2cd98322c8bb8"
 
 [[files]]
 file = "mods/.index/adaptive-tooltips.pw.toml"
@@ -1378,10 +934,6 @@ hash = "b300f19b01aba000d212117a404c05bf81f783a2bb2fb8ea2a9ce4a4f9bc74c2"
 [[files]]
 file = "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
 hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
-
-[[files]]
-file = "mods/some-ordinary-tweaks-1.6.0.jar"
-hash = "d185766b1081083f1b6f93b5ca31289c297a555269a0a7550a71105d1489adc6"
 
 [[files]]
 file = "mods/starlight-1.1.1+fabric.ae22326.jar"
